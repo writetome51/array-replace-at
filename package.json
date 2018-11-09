@@ -1,0 +1,31 @@
+{
+  "name": "@writetome51/array-replace-at",
+  "version": "1.1.0",
+  "description": "Replaces 1 item in array at specified index",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/writetome51/array-replace-at.git"
+  },
+  "keywords": [
+    "array",
+    "manipulation",
+    "replace",
+    "item",
+    "single",
+    "index"
+  ],
+  "author": "Steve Thompson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/writetome51/array-replace-at/issues"
+  },
+  "homepage": "https://github.com/writetome51/array-replace-at#readme",
+  "devDependencies": {},
+  "dependencies": {
+     "@writetome51/array-replace-adjacent-items": "1.0.1"
+  }
+}
