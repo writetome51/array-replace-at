@@ -26,6 +26,6 @@
   "homepage": "https://github.com/writetome51/array-replace-at#readme",
   "devDependencies": {},
   "dependencies": {
-     "@writetome51/array-replace-adjacent-items": "1.0.1"
+    "@writetome51/array-replace-adjacent-items": "1.0.1"
   }
 }
