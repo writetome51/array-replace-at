@@ -24,7 +24,9 @@
     "url": "https://github.com/writetome51/array-replace-at/issues"
   },
   "homepage": "https://github.com/writetome51/array-replace-at#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "@writetome51/arrays-match": "^1.0.2"
+  },
   "dependencies": {
     "@writetome51/array-replace-adjacent-items": "1.0.1"
   }

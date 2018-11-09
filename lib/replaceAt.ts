@@ -5,6 +5,6 @@ import { _replaceAdjacentItems } from '@writetome51/array-replace-adjacent-items
 
 export function replaceAt(index, newValue, array): void {
 
-	// The parameters index and array are type-checked here:
+	// index and array are type-checked here:
 	_replaceAdjacentItems(index, 1, [newValue], array);
 }
