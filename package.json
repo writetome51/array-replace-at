@@ -1,6 +1,6 @@
 {
   "name": "@writetome51/array-replace-at",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Replaces 1 item in array at specified index",
   "main": "index.js",
   "scripts": {
@@ -25,9 +25,9 @@
   },
   "homepage": "https://github.com/writetome51/array-replace-at#readme",
   "devDependencies": {
-    "@writetome51/arrays-match": "^1.0.2"
+    "@writetome51/arrays-match": "~1.0.2"
   },
   "dependencies": {
-    "@writetome51/array-replace-adjacent-items": "1.0.1"
+    "@writetome51/array-replace-adjacent-items": "~1.0.1"
   }
 }
