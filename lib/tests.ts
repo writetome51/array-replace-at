@@ -1,4 +1,4 @@
-import { replaceAt } from './replaceAt';
+import { replaceAt } from './index';
 import { arraysMatch } from '@writetome51/arrays-match';
 
 

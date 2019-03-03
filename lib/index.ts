@@ -1,4 +1,4 @@
-import { _replaceAdjacentItems } from '@writetome51/array-replace-adjacent-items/_replaceAdjacentItems';
+import { _replaceAdjacentItems } from '@writetome51/array-replace-adjacent-items';
 
 
 // index can be negative or positive.
